@@ -13,9 +13,14 @@ By identifying the cities that performing poorly, the client can tell states wha
 # Overview of the Process  
 The analysis can be broken down into 3 steps.  
 <p align="center"> <img width="1019" alt="image" src="https://user-images.githubusercontent.com/125685678/222251015-fd3f5b1d-b53b-4e1a-b99d-ff098fe654d5.png">  </p>
-1. Are there any disparities in GED Performance?  
+1. Are there any disparities in the standardized exam performance?   
+
 - To identify if there are disparities in testing performance, I created 5 KPIs to measure disparities on. The reason why I choose 5 over just if a candidate passed is that there is more to measure than just passing the exam. In addition to passing,  it is also important to know how long it took as well as resources used. Looking at all 5 KPIs, at a state level, it is evident that there are disparities.
-<p align="center">  <img width="475" alt="image" src="https://user-images.githubusercontent.com/125685678/222251435-9c628c77-cd54-4a1f-a77d-6c9826932c7a.png">  </p>   
+<p align="center">  <img width="475" alt="image" src="https://user-images.githubusercontent.com/125685678/222251435-9c628c77-cd54-4a1f-a77d-6c9826932c7a.png">   
+  <img width="497" alt="image" src="https://user-images.githubusercontent.com/125685678/222255894-2f5a6f0c-01ca-4932-9668-ed2c463dad18.png">
+ </p>  
+
+
 - At this point, disparities are shown to exist. To further the analysis, I brought the analysis level from state-level to city-level so that insights could be more actionable.  
 
 2. Which poorly performing cities can we focus on?
